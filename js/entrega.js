@@ -3,7 +3,7 @@ let edad = parseInt(prompt("Ingrese su edad: (si sos mayor de 18 vas a poder seg
 if (edad > 18){
 
     for (i=10;i > 0; i--){ 
-        alert("te falta " + i + " para salir del prompt")
+        alert("te faltan " + i + " clicks para salir del prompt")
     }
   }  
     else{
